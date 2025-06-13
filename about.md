@@ -15,3 +15,4 @@ Technest.io ia a platform dedicated to telling the stories of proptech pioneers.
 ### Contact
 
 You are interested? check out our website (Technest.io.com).
+
